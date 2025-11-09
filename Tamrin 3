@@ -1,0 +1,53 @@
+Moeidreza Agheli
+تمرین ۱
+تفاوت print و return
+print یک تابع است که خروجی ان را صرفا چاپ میکند
+return یک تابع که یک مقداری را برمیگردانند و میتواند دوباره در برنامه مورد استفاده قرار گیرد
+تمرین ۲
+y=s 
+
+def y(s):
+    return s 
+
+print y(2)
+
+
+y=x 
+
+def y(x):
+      return x
+print y(10)
+
+
+
+
+y = ax² + bx + c 
+
+def y(a,x,b,c):
+   return y = a * (x ** 2) + b * x + c
+print y(10,2,3,4)   
+
+
+y = ax³ + bx² + cx + d 
+
+def y(a,x,b,c,d):
+    return y = a * x**3 + b * x**2 + c * x + d
+print y(1,3,5,2,6) 
+
+y = -x 
+
+def y (x):
+    return -x
+print y(3) 
+
+y = w-a * d/f 
+
+def y(w,a,d,f):
+     return y= (w-a)*(d//f)
+print y(12,3,5,9) 
+
+y = ax + bz 
+
+def y(a,c,b,z):
+      return y= a*x+b*z
+print y(1,6,7,8)
